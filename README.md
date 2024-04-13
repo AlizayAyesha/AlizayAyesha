@@ -21,7 +21,5 @@ feel free to reach me at sherlockholme898@gmail.com
     <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
   </a>
   
-  ![](https://komarev.com/ghpvc/?username=AlizayAyesha)
-  
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
