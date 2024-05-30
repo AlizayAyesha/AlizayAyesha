@@ -1,7 +1,7 @@
 <!-- Capsule Render Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=milojeBtc&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AlizayAyesha&color=brightgreen)
 
 **HI there**🙋‍♀️
 
@@ -14,30 +14,31 @@ feel free to reach me at sherlockholme898@gmail.com
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Tools</b>
 
 <div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizayAyesha&layout=donut&langs_count=6" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizayAyesha&layout=donut&langs_count=6&theme=dark" />
+  </picture>
 </div>
+
 
 - Framework: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 - Tools:  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
