@@ -3,10 +3,20 @@
 
 
 
-**HI there**🙋‍♀️
+# HI there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-feel free to reach me at sherlockholme898@gmail.com
+### Feel free to reach me at
 
+<p align="center">
+ <a href="[https://www.instagram.com/](https://www.instagram.com/alizay_yousfzai/)" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
+  <a href="https://www.linkedin.com/in/alizay-yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
+  <a href="https://github.com/AlizayAyesha" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
+  <a href="sherlockholme898@gmail.com" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height=50 withd=50 /></a>
+  <a href="https://www.youtube.com/channel/UCNXwDOfvNu8jXsMpqWtqZjw" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height=50 withd=50 /></a>
+
+## 📚 Main Tech Stack 
+ <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,sass,python"/><br/>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,githubactions,kubernetes,docker&titles=true"/>
 
 
 ![github-contribution-grid-snake](https://github.com/AlizayAyesha/AlizayAyesha/assets/68489612/90b48451-2b17-4735-8d9a-e8af691de7aa)
