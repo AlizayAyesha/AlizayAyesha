@@ -5,13 +5,13 @@
 
 # HI there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### Feel free to reach me at
+### Feel free to reach me at: sherlockholme898@gmail.com 
 
 <p align="center">
  <a href="https://www.instagram.com/alizay_yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
   <a href="https://www.linkedin.com/in/alizay-yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
   <a href="https://github.com/AlizayAyesha" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
-  <a href="sherlockholme898@gmail.com" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height=50 withd=50 /></a>
+ 
   <a href="https://www.youtube.com/channel/UCNXwDOfvNu8jXsMpqWtqZjw" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height=50 withd=50 /></a>
 
 ## 📚 Main Tech Stack 
