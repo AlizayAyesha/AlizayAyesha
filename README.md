@@ -11,7 +11,6 @@
  <a href="https://www.instagram.com/alizay_yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=50 withd=50 /></a>
   <a href="https://www.linkedin.com/in/alizay-yousfzai/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=50 withd=50 /></a>
   <a href="https://github.com/AlizayAyesha" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=50 withd=50 /></a>
- 
   <a href="https://www.youtube.com/channel/UCNXwDOfvNu8jXsMpqWtqZjw" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height=50 withd=50 /></a>
 
 ## 📚 Main Tech Stack 
