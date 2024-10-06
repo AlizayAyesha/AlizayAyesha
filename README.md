@@ -26,33 +26,6 @@
 </div>
 <br>
 
-<div>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=AlizayAyesha&show=reviews%2Cprs_merged&theme=dark" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AliizayAyesha&layout=donut&langs_count=6"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizayAyesha&layout=donut&langs_count=6&theme=dark" />
-  </picture>
-</div>
-
-
 <div style="text-align: center;">
 
 - Framework: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
