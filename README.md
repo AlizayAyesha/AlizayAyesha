@@ -36,8 +36,9 @@
 </a>
 
 </div>
-
+<div>
+ 
 [![An image of @alizayayesha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alizayayesha)](https://holopin.io/@alizayayesha)
-  
+  </div>
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
