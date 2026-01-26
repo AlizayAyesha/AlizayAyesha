@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/>**Open Source Advocate | Startup Growth Partner | Tech Community Builder**
 
 I help **developers, students, and early-stage tech startups** grow through  
-open source, community, visibility, and smart tech execution 🚀
+open source, community, visibility, and smart tech execution 
 <h3>
   <img src="https://img.icons8.com/ios-filled/24/00ff00/domain.png"
        style="vertical-align:middle; margin-right:6px;"/>
