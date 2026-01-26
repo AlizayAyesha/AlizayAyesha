@@ -16,6 +16,15 @@
 
 I help **developers, students, and early-stage tech startups** grow through  
 open source, community, visibility, and smart tech execution 🚀
+<h3>
+  <img src="https://img.icons8.com/ios-filled/24/00ff00/domain.png"
+       style="vertical-align:middle; margin-right:6px;"/>
+  <a href="https://portfolio-alizay-ayeshas-projects.vercel.app/">Portfolio</a>
+</h3>
+
+<a href="https://portfolio-alizay-ayeshas-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 ---
 
