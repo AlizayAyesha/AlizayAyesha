@@ -58,8 +58,16 @@ open source, community, visibility, and smart tech execution 🚀
 
 <hr>
 
-
-## 📚 Main Tech Stack 💻✨
+<table>
+  <tr>
+    <td>
+      <img width="50" height="50" src="https://em-content.zobj.net/source/telegram/386/books_1f4da.webp" alt="Ecosystem Image"/>
+    </td>
+    <td>
+      <strong>Main Tech Stack </strong>
+    </td>
+  </tr>
+</table>
 
 | Category | Tech Stack | Description |
 |----------|------------|-------------|
