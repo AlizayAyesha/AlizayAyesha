@@ -36,7 +36,7 @@ I help startups scale through software, AI automation, and digital transformatio
       <img width="50" height="50" src="https://github.com/user-attachments/assets/840cad45-629f-4b5a-8d62-ea1f380c822d" alt="Ecosystem Image"/>
     </td>
     <td>
-      <strong>MY ECOSYSTEM</strong>
+      <strong>THE ECOSYSTEM</strong>
     </td>
   </tr>
 </table>
