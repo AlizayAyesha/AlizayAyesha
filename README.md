@@ -13,18 +13,33 @@
 
 ### I’m Alizay Ayesha
 
-### 👤 contact
-
-📧 **Email:** [zarlabsteam@gmail.com](mailto:sherlockholme898@gmail.com?subject=From%20GitHub)
-
-📞 **Phone:** +92 330 7063298
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> **Founder @ Zar Labs | Co-Founder @ Vyzion Systems | AI Automation Consultant | Open Source Advocate**
 
 Building technology, communities, and opportunities.
 
 I help startups scale through software, AI automation, and digital transformation while supporting developers through open source, mentorship, community initiatives, and collaborative learning.
 
+---
+
+## Current Focus
+
+- AI Agents & Workflow Automation
+- SaaS Product Development
+- Digital Transformation
+- Enterprise Technology Solutions
+- Open Source Communities
+- Startup Growth Systems
+---
+<table>
+  <tr>
+    <td>
+      <img width="50" height="50" src="https://github.com/user-attachments/assets/840cad45-629f-4b5a-8d62-ea1f380c822d" alt="Ecosystem Image"/>
+    </td>
+    <td>
+      <strong>MY ECOSYSTEM</strong>
+    </td>
+  </tr>
+</table>
 <h2> Zar Labs</h2>
 
 <p>
@@ -98,7 +113,9 @@ Enterprise Technology • Digital Transformation • Software Modernization • 
 <p align="center">
   <i>Building technology, businesses, and communities that create real-world impact.</i>
 </p>
+
 ---
+
 <p align="center">
   <a href="https://www.instagram.com/alizay_ayesha/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/00ff00" height="45"/>
@@ -157,51 +174,7 @@ Enterprise Technology • Digital Transformation • Software Modernization • 
 | AI / Machine Learning | [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/) [![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)](https://scikit-learn.org/) [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) [![NumPy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/) | AI & ML frameworks, data analysis & modeling |
 | Automation & Agentic AI | <a href="https://n8n.io/"><img src="https://n8n.io/brandguidelines/dont/vertical-align.png" width="60" alt="n8n"/></a> <a href="https://zapier.com/"><img src="https://github.com/user-attachments/assets/7bcae7c5-a68b-4e81-af0f-ad63909ab39a" width="40" alt="zapier"/></a> [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) | Code-based AI agents, workflow automation, integrations |
 | Voice / Audio AI | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) <a href="https://elevenlabs.io/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM2evdRl4XCY-ZuAfL8WgEPROSN_pkl6Wut4nDDiWxw&s&ec=121507526" width="60" alt="ElevenLabs"/></a> | Voice synthesis / Text-to-Speech AI tools |
----
-<table>
-  <tr>
-    <td>
-      <img width="50" height="50" src="https://github.com/user-attachments/assets/840cad45-629f-4b5a-8d62-ea1f380c822d" alt="Ecosystem Image"/>
-    </td>
-    <td>
-      <strong>MY ECOSYSTEM</strong>
-    </td>
-  </tr>
-</table>
 
-<h3>
-  <img 
-    src="https://em-content.zobj.net/source/emojidex/107/gear_2699.png" 
-    alt="gear" 
-    width="52"
-    style="vertical-align: middle; margin-right:6px;"
-  />
-  <strong>ZarLabs Agency</strong>
-</h3>
-
-- Web development & UI/UX
-- Logo design & brand identity
-- **Logo animation (Lottie files)**
-- AI tools, AI agents & automation
-- Machine learning & AI voice synthesis
-- Instagram & Facebook optimization
-- Marketing & growth templates
-
-
-<h3>
-  <img 
-    src="https://em-content.zobj.net/source/joypixels-animations/366/clapper-board_1f3ac.gif" 
-    alt="gear" 
-    width="52"
-    style="vertical-align: middle; margin-right:6px;"
-  />
-  <strong>UGC & Advertising Agency</strong>
-</h3>
-
-- UGC-style ads
-- Captivating script writing
-- AI-powered films & creatives
-- Content for apps & startup launches
 
 ---
 
@@ -232,6 +205,12 @@ I actively help contributors:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Cursor Pro](https://img.shields.io/badge/Cursor_Pro-AI%20Editor-0000?style=flat-square)
 ![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Tool-8A2BE2?style=flat-square)
+
+👤 contact
+
+📧 Email: zarlabsteam@gmail.com
+
+📞 Phone: +92 330 7063298
 
 <!-- Bottom Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00FF00&text=Thank%20You&section=footer&animation=twinkling&reversal=true"/>
