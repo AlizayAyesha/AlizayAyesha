@@ -12,19 +12,27 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### I’m Alizay Ayesha  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/>**Open Source Advocate | Startup Growth Partner | Tech Community Builder**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/>**Founder @ Zar Labs | Co-Founder @ Vyzion Systems | AI Automation Consultant | Open Source Advocate**
 
 I help **developers, students, and early-stage tech startups** grow through  
 open source, community, visibility, and smart tech execution 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/24/00ff00/domain.png"
-       style="vertical-align:middle; margin-right:6px;"/>
-  <a href="https://portfolio-alizay-ayeshas-projects.vercel.app/">Portfolio</a>
-</h3>
 
-<a href="https://portfolio-alizay-ayeshas-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+
+## 🚀 Current Focus
+
+🔹 AI Agents & Autonomous Workflows
+
+🔹 SaaS Product Development
+
+🔹 Enterprise Dashboards
+
+🔹 Workflow Automation
+
+🔹 Startup Growth Systems
+
+🔹 Open Source Contributions
+
+🔹 Digital Transformation Projects
 
 ---
 
