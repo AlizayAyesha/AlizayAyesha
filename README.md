@@ -11,34 +11,94 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### I’m Alizay Ayesha  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/>**Founder @ Zar Labs | Co-Founder @ Vyzion Systems | AI Automation Consultant | Open Source Advocate**
+### I’m Alizay Ayesha
 
-I help **developers, students, and early-stage tech startups** grow through  
-open source, community, visibility, and smart tech execution 
+### 👤 contact
+
+📧 **Email:** [zarlabsteam@gmail.com](mailto:sherlockholme898@gmail.com?subject=From%20GitHub)
+
+📞 **Phone:** +92 330 7063298
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> **Founder @ Zar Labs | Co-Founder @ Vyzion Systems | AI Automation Consultant | Open Source Advocate**
+
+Building technology, communities, and opportunities.
+
+I help startups scale through software, AI automation, and digital transformation while supporting developers through open source, mentorship, community initiatives, and collaborative learning.
+
+<h2> Zar Labs</h2>
+
+<p>
+AI Automation • SaaS Development • Custom Software • Digital Transformation
+</p>
+
+<p align="center">
+  <a href="https://zarlabs.online/" target="_blank">
+    <img
+      width="100%"
+      alt="Zar Labs"
+      src="https://github.com/user-attachments/assets/294e92d4-6f0a-4f24-aab9-bd4069832a43"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>
+    Building AI-powered software, automation systems, SaaS products, and digital experiences for businesses worldwide.
+  </strong>
+</p>
+
+<ul>
+  <li>🌐 <a href="https://zarlabs.online/">Website</a></li>
+  <li>💼 <a href="https://linkedin.com/company/zar-labs">LinkedIn</a></li>
+  <li>📸 <a href="https://www.instagram.com/zar_labs/">Instagram</a></li>
+</ul>
 
 
-## 🚀 Current Focus
+<br>
 
-🔹 AI Agents & Autonomous Workflows
+<h2>⚙️ Vyzion Systems</h2>
 
-🔹 SaaS Product Development
+<p>
+Enterprise Technology • Digital Transformation • Software Modernization • Business Technology Consulting
+</p>
 
-🔹 Enterprise Dashboards
+<p align="center">
+  <a href="https://vyzionsystems.com/" target="_blank">
+    <img
+      width="900"
+      alt="Vyzion Systems"
+      src="https://github.com/user-attachments/assets/bb830ad1-c74e-43d3-b684-bbfd63631273"
+    />
+  </a>
+</p>
 
-🔹 Workflow Automation
+<p align="center">
+  <strong>
+    Helping organizations modernize infrastructure, optimize operations, and accelerate digital transformation through enterprise technology solutions.
+  </strong>
+</p>
 
-🔹 Startup Growth Systems
+<ul>
+  <li>🌐 <a href="https://vyzionsystems.com/">Website</a></li>
+  <li>📧 <a href="mailto:contact@vyzionsystems.com">contact@vyzionsystems.com</a></li>
+  <li>📞 +55 (62) 99480-0483</li>
+  <li>📸 <a href="https://www.instagram.com/vyzionsystems_ofc/">Instagram</a></li>
+</ul>
 
-🔹 Open Source Contributions
+### Together, These Ventures Deliver
 
-🔹 Digital Transformation Projects
+* AI Automation & Agentic Workflows
+* Custom Software & SaaS Platforms
+* Enterprise Technology Solutions
+* Digital Transformation
+* UI/UX & Product Design
+* Branding & Marketing Assets
+* Startup Growth & Technology Consulting
 
+<p align="center">
+  <i>Building technology, businesses, and communities that create real-world impact.</i>
+</p>
 ---
-
-### 📬 Reach me at  
-📧 [sherlockholme898@gmail.com](mailto:sherlockholme898@gmail.com?subject=From%20GitHub)
-*Please use **“From GitHub”** as the email subject*
 <p align="center">
   <a href="https://www.instagram.com/alizay_ayesha/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/00ff00" height="45"/>
