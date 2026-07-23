@@ -1,0 +1,52 @@
+name: Generate contribution snake 🐍
+
+# Regenerates AlizayAyesha's contribution snake every day (and on push to main).
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "github-snake.svg"
+      - "github-snake-green.svg"
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake from @AlizayAyesha contributions
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AlizayAyesha
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
+            dist/github-snake-green.svg?color_snake=#00FF00&color_dots=#0d1117,#14532d,#166534,#22c55e,#00FF00
+
+      - name: Copy snake into repo (for README)
+        run: |
+          cp dist/github-snake.svg ./github-snake.svg
+          cp dist/github-snake-green.svg ./github-snake-green.svg
+
+      - name: Commit updated snake to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: github-snake.svg github-snake-green.svg
+
+      - name: Also publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
