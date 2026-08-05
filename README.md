@@ -70,8 +70,8 @@ AI Automation • SaaS Development • Custom Software • Digital Transformatio
 
 <p align="center">
   <a href="https://zarlabs.online/" target="_blank">
-    <img width="100%" alt="Zar Labs" src="https://github.com/user-attachments/assets/294e92d4-6f0a-4f24-aab9-bd4069832a43"/>
-  </a>
+  <img width="1200" height="627" alt="Zarlabs" src="https://github.com/user-attachments/assets/986d2df7-6e83-4f7e-af01-6f198fb0fd07" />
+</a>
 </p>
 
 <p align="center">
@@ -90,7 +90,8 @@ Enterprise Technology • Digital Transformation • Software Modernization • 
 
 <p align="center">
   <a href="https://vyzionsystems.com/" target="_blank">
-    <img width="900" alt="Vyzion Systems" src="https://github.com/user-attachments/assets/bb830ad1-c74e-43d3-b684-bbfd63631273"/>
+    <img width="1200" height="627" alt="I actually think Vyzion Systems can become a major credibility signal—if you position it correctly  The mistake most founders make is featuring two agencies that look like competitors  Instead, th" src="https://github.com/user-attachments/assets/47e133dd-f66f-480a-8c30-1d696ed42ff9" />
+
   </a>
 </p>
 
