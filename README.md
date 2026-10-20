@@ -243,7 +243,7 @@ I actively help contributors:
 
 👤 Contact
 
-📧 Email: [zarlabsteam@gmail.com](mailto:zarlabsteam@gmail.com)
+📧 Email: [alizay@zarlabs.online](mailto:alizay@zarlabs.online)
 
 📞 Phone: +92 330 7063298
 
