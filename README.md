@@ -1,12 +1,7 @@
 <!-- Capsule Render Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header" alt="header"/>
 
-<div align="center">
 
-<!-- Reliable ZAR LABS hero (PNG/JPG loads on GitHub; animated SVG often fails as <img>) -->
-<img src="./assets/zar-labs-hero.jpg?v=5" alt="Alizay Ayesha — Founder @ Zar Labs" width="100%"/>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AlizayAyesha&color=brightgreen" alt="Profile views"/>
 <br/>
